@@ -1,0 +1,72 @@
+[
+  {
+    "id": "PROD001",
+    "name": "Cake & Milk",
+    "category": "Dairy & Baked Goods",
+    "inStock": true,
+    "pictureUrl": "https://i.ibb.co.com/G4cGg827/Figure-7.png"
+  },
+  {
+    "id": "PROD002",
+    "name": "Organic Kiwi",
+    "category": "Fruit",
+    "inStock": true,
+    "pictureUrl": "https://i.ibb.co.com/Df2myQ7y/Figure-6.png"
+  },
+  {
+    "id": "PROD003",
+    "name": "Peach",
+    "category": "Fruit",
+    "inStock": true,
+    "pictureUrl": "https://i.ibb.co.com/p6dXqnnM/Figure-5.png"
+  },
+  {
+    "id": "PROD004",
+    "name": "Red Apple",
+    "category": "Fruit",
+    "inStock": true,
+    "pictureUrl": "https://i.ibb.co.com/LdYdBVHB/Figure-4.png"
+  },
+  {
+    "id": "PROD005",
+    "name": "Snacks",
+    "category": "Pantry",
+    "inStock": true,
+    "pictureUrl": "https://i.ibb.co.com/hxTxxxbQ/Figure-3.png"
+  },
+  {
+    "id": "PROD006",
+    "name": "Vegetables",
+    "category": "Produce",
+    "inStock": true,
+    "pictureUrl": "https://i.ibb.co.com/xqHNhdhq/Figure-2.png"
+  },
+  {
+    "id": "PROD007",
+    "name": "Strawberry",
+    "category": "Fruit",
+    "inStock": true,
+    "pictureUrl": "https://i.ibb.co.com/PZLXdWNB/Figure-1.png"
+  },
+  {
+    "id": "PROD008",
+    "name": "Black Plum",
+    "category": "Fruit",
+    "inStock": true,
+    "pictureUrl": "https://i.ibb.co.com/TDy66Th9/Figure.png"
+  },
+  {
+    "id": "PROD009",
+    "name": "Custard Apple",
+    "category": "Fruit",
+    "inStock": true,
+    "pictureUrl": "https://i.ibb.co.com/LX7bxPGx/289.png"
+  },
+  {
+    "id": "PROD010",
+    "name": "Coffee Tea",
+    "category": "Beverages",
+    "inStock": true,
+    "pictureUrl": "https://i.ibb.co.com/j9f4VFRc/291.png"
+  }
+]
